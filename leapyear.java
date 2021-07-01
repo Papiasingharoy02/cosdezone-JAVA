@@ -9,7 +9,7 @@ public static void main(string args[])throws java.lang.Exception{
 		System.out.println("Mention the year:");
 		int y= sc.nextInt();
 		if(y%400==0){
-				System.out.printlm("\n"+y+"is a leap year");
+				System.out.println("\n"+y+"is a leap year");
 }
 		else if(y%100==0){
 				    System.out.println("\n"+y+"is not a leap year");
