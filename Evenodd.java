@@ -5,7 +5,7 @@ import java.lang.*;
 import java.io.*;
 
 class Evenodd{
-public static void main(string args[])throws java.lang.Exception{
+public static void main(String args[])throws java.lang.Exception{
 
 		Scanner sc=new Scanner(System.in);
 		System.out.println("Enter the number:");
