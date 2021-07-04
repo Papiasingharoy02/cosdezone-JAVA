@@ -3,7 +3,7 @@ import java.lang.*;
 import java.io.*;
 
 class leapyear{
-public static void main(string args[])throws java.lang.Exception{
+public static void main(String args[])throws java.lang.Exception{
 
 		Scanner sc=new Scanner(System.in);
 		System.out.println("Mention the year:");
