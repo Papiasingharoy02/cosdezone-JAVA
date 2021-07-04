@@ -5,7 +5,7 @@ import java.lang.*;
 import java.io.*;
 
 class Helloworld{
-public static void main(string args[])throws java.lang.Exception{
+public static void main(String args[])throws java.lang.Exception{
 			
 			System.out.println("Hello World");
 }
